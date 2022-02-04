@@ -1,5 +1,5 @@
 {
-  "homepage": "./",
+  "homepage": "./https://dictionary1.s3.eu-west-1.amazonaws.com/dictionary-front/index.html",
   "name": "client",
   "version": "0.1.0",
   "private": true,

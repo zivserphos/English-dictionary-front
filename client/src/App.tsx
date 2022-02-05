@@ -3,8 +3,6 @@ import { Routes, Route, HashRouter } from "react-router-dom";
 import Word from "./pages/word/Word";
 import PartOfSpeech from "./pages/part-of-speech/PartOfSpeech";
 import Home from "./pages/home/Home";
-import "./styles/styles.scss";
-
 
 function App() {
    return (

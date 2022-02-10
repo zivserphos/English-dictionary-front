@@ -1,5 +1,5 @@
 {
-  "homepage": "./",
+  "homepage": "https://zivserphos.github.io/English-dictionary-front",
   "name": "client",
   "version": "0.1.0",
   "private": true,
@@ -22,6 +22,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -51,6 +53,7 @@
     "@typescript-eslint/eslint-plugin": "^5.10.0",
     "@typescript-eslint/parser": "^5.10.0",
     "eslint": "^8.7.0",
-    "eslint-plugin-react": "^7.28.0"
+    "eslint-plugin-react": "^7.28.0",
+    "gh-pages": "^3.2.3"
   }
 }

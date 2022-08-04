@@ -19,7 +19,7 @@
 
 <br>
 
-#### Word definition seems like this:
+#### Word definition seems like this
 
 <br>
 
